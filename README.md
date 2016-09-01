@@ -28,4 +28,4 @@ But, Why... uhm... eh...
 Write a Ruby Script that actually print the correct result!
 
 Rule:
-- You can't modify the rubbi.sh file in any way, good luck!
+- You can't modify the rubi.sh file in any way, good luck!
