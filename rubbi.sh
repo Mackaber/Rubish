@@ -6,7 +6,7 @@ RESULT="$(( ( RANDOM % 42 )  + 1 ))"
 # echo "${RESULT}"
 
 function print_result() {
-	if [ "$1 + ''" != "${RESULT}" ]
+	if [ "${OUTPUT}" != "${RESULT}" ]
 	then
 		echo "${RESULT}"
 	else
